@@ -1,3 +1,9 @@
+This the Sample App for Chapters 3-12 of the Rails tutorial by Michael Hartl
+
+Done by Kurt Eichstadt
+
+---------------------------------------
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
